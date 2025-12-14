@@ -1,0 +1,52 @@
+# Maven
+/target/
+/.mvn/
+
+# IDEs
+/.idea/
+*.iml
+/.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Windows user profile files
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+
+# OneDrive and common user folders (prevent accidental adds)
+OneDrive/
+Pictures/
+Videos/
+Saved Games/
+Searches/
+
+# Temporary files
+*.tmp
+*~
+
+# Maven wrapper
+mvnw
+mvnw.cmd
+
+# build artifacts
+*.class
+
+# IntelliJ
+out/
