@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FoodieApplication<foodie-ordering>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.foodie.FoodieApplication",
+            "projectName": "foodie-ordering",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
